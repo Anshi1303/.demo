@@ -1,3 +1,3 @@
 # .demo
-this is my second repo
-Athor- Anshi Tiwari
+this is my second repository.
+Author- Anshi Tiwari
